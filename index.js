@@ -1,5 +1,6 @@
 import Experiment from './Experiment';
-import Tracking from './Tracking';
+// import Tracking from './Tracking';
 import Variant from './Variant';
 
-export { Experiment, Tracking, Variant };
+// export { Experiment, Tracking, Variant };
+export { Experiment, Variant };
